@@ -13,7 +13,8 @@
   "dependencies": {
     "@nuxt/http": "latest",
     "express": "latest",
-    "nuxt": "latest"
+    "nuxt": "latest",
+    "pdf-creator-node": "^2.2.2"
   },
   "devDependencies": {
     "@nuxtjs/eslint-config": "^5.0.0",
